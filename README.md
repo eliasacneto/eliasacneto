@@ -7,14 +7,6 @@
 <p align="center"> 
   <samp>
    「 I am a Frontend Web and Mobile developer from <b>Brazil</b> 」
-    <br>
-    <br>
-     <a href="https://linkedin.com/in/eliasacneto" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <a href="https://instagram.com/eliasacneto" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
   </samp>
 </p>
 
@@ -24,9 +16,16 @@
 
 ## About me
 
-<a href="#"><img src="./etc/eliasneto-memoji.png" align="right"  height="150" /></a>
-<br>
-I hold a degree in Systems Analysis and Development, and I am currently enhancing my expertise in Technology with a focus on Full Stack Web Development through advanced courses at DNC and Rocketseat.
+I hold a degree in **Systems Analysis and Development**, and I am currently enhancing my expertise in Technology with a focus on Full Stack Web Development through advanced courses at DNC and Rocketseat.
+
+#### Follow me on:
+
+<a href="https://linkedin.com/in/eliasacneto" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eliasacneto"/>
+ </a>
+ <a href="https://instagram.com/eliasacneto" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="eliasacneto" />
+ </a>
 
 ## Languages and Tools:
 
