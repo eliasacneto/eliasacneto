@@ -18,27 +18,15 @@
   </samp>
 </p>
 
-<p align="center">
-
-</p>
 <br />
 
 <!-- About Section -->
 
-# About me
+## About me
 
-<p align="left">
-
-</p>
- <a href="#"><img src="./etc/eliasneto-memoji.png" align="right" height="150" /></a>
-<p> 
+<a href="#"><img src="./etc/eliasneto-memoji.png" align="right"  height="150" /></a>
+<br>
 I hold a degree in Systems Analysis and Development, and I am currently enhancing my expertise in Technology with a focus on Full Stack Web Development through advanced courses at DNC and Rocketseat.
-
-</p>
-
-<br/>
-<br/>
-<br/>
 
 ## Languages and Tools:
 
@@ -61,7 +49,7 @@ I hold a degree in Systems Analysis and Development, and I am currently enhancin
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasacneto&show_icons=true&locale=en&layout=compact" alt="eliasacneto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasacneto&show_icons=true&locale=en&layout=compact" alt="eliasacneto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasacneto&show_icons=true&locale=en" alt="eliasacneto" /></p>
 
