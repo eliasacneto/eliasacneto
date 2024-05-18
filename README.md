@@ -1,5 +1,5 @@
 <h2 align="center">
-        <samp>&gt; Hey folks!, I am
+        <samp>&gt; Hey folks!, I'm 
                 <b>Elias Neto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> < </b>  
         </samp>
 </h2>
