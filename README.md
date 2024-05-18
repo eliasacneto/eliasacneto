@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <samp>
-   「 I am a Frontend Web and Mobile developer from <b>Brazil</b> 」
+    I am a Frontend Web and Mobile developer from <b>Brazil</b>
   </samp>
 </p>
 
