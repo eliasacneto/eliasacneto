@@ -16,7 +16,13 @@
 
 ## About me
 
-I hold a degree in **Systems Analysis and Development**, and I am currently enhancing my expertise in Technology with a focus on Full Stack Web Development through advanced courses at DNC and Rocketseat.
+Hello! I'm Elias, a passionate Front-End Developer and Agile Project Manager with a diverse background in UI/UX design, web development, and project management. With extensive experience using technologies like React, Next.js, TypeScript, Tailwind CSS, and Node.js, I thrive on building intuitive and efficient web applications.
+
+I'm the co-founder of Octor, a healthtech startup focused on solving scheduling, financial management, and patient record challenges for healthcare professionals. Our platform is designed to streamline operations and enhance the quality of patient care through digital transformation.
+
+I am constantly learning and evolving, currently diving deeper into React Native for mobile development and continuing to refine my skills in agile methodologies to bridge the gap between business and technology. I'm always open to collaborating on innovative projects and contributing to the developer community.
+
+Let's build something great together!
 
 #### Follow me on:
 
@@ -45,8 +51,14 @@ I hold a degree in **Systems Analysis and Development**, and I am currently enha
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasacneto&show_icons=true&locale=en&layout=compact" alt="eliasacneto" /></p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasacneto&show_icons=true&locale=en&layout=compact" alt="eliasacneto" />
+  </span>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasacneto&show_icons=true&locale=en" alt="eliasacneto" /></p>
+  <span style="margin-left: 20px;"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=eliasacneto&show_icons=true&locale=en" alt="eliasacneto" />
+  </span>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasacneto&" alt="eliasacneto" /></p>
