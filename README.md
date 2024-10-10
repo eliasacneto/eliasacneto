@@ -52,9 +52,9 @@ Let's build something great together!
 <br/>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 2px">
-  <span> 
+<!--   <span> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasacneto&show_icons=true&locale=en" alt="eliasacneto" />
-  </span>
+  </span> -->
  <span>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasacneto&" alt="eliasacneto" />
   </span>
