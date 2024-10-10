@@ -51,14 +51,12 @@ Let's build something great together!
 
 <br/>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <span>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eliasacneto&show_icons=true&locale=en&layout=compact" alt="eliasacneto" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 2px">
+  <span> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasacneto&show_icons=true&locale=en" alt="eliasacneto" />
   </span>
-
-  <span style="margin-left: 20px;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=eliasacneto&show_icons=true&locale=en" alt="eliasacneto" />
+ <span>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasacneto&" alt="eliasacneto" />
   </span>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasacneto&" alt="eliasacneto" /></p>
