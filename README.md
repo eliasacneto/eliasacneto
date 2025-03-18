@@ -16,13 +16,19 @@
 
 ## About me
 
-Hello! I'm Elias, a passionate Front-End Developer and Agile Project Manager with a diverse background in UI/UX design, web development, and project management. With extensive experience using technologies like React, Next.js, TypeScript, Tailwind CSS, and Node.js, I thrive on building intuitive and efficient web applications.
+Hello! I'm Elias, a passionate Front-End Developer, Tech Lead, and Agile Project Manager with a diverse background in UI/UX design, web development, and project management. With extensive experience using technologies like React, Next.js, TypeScript, Tailwind CSS, and Node.js, I thrive on building intuitive and efficient web applications.
 
 I'm the co-founder of Octor, a healthtech startup focused on solving scheduling, financial management, and patient record challenges for healthcare professionals. Our platform is designed to streamline operations and enhance the quality of patient care through digital transformation.
 
-I am constantly learning and evolving, currently diving deeper into React Native for mobile development and continuing to refine my skills in agile methodologies to bridge the gap between business and technology. I'm always open to collaborating on innovative projects and contributing to the developer community.
+I'm also the Tech Lead at AllyTech, a software house specializing in Software Development, IoT, API Development, and Cloud Solutions. At AllyTech, we leverage cutting-edge technology to deliver scalable and high-performance solutions for businesses across different industries.
 
-Let's build something great together!
+I am constantly learning and evolving, currently diving deeper into React Native for mobile development and continuing to refine my skills in agile methodologies to bridge the gap between business and technology.
+
+I'm always open to collaborating on innovative projects and contributing to the developer community.
+
+🚀 Let's build something great together!
+
+
 
 #### Follow me on:
 
@@ -49,14 +55,5 @@ Let's build something great together!
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 2px">
-<!--   <span> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=eliasacneto&show_icons=true&locale=en" alt="eliasacneto" />
-  </span> -->
- <span>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eliasacneto&" alt="eliasacneto" />
-  </span>
-</div>
 
